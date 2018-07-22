@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string name="msg_no_camera">Sorry, your phone does not have a camera!</string>
+    <string name="msg_no_front_camera">No front facing camera found.</string>
+    <string name="msg_only_one_camera">Sorry, your phone has only one camera!</string>
+</resources>
